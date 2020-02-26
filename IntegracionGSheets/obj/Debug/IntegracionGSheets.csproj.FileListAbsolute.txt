@@ -22,3 +22,30 @@ C:\Users\Jonathan Avila\Documents\Visual Studio 2017\projects\IntegracionGSheets
 C:\Users\Jonathan Avila\Documents\Visual Studio 2017\projects\IntegracionGSheets\IntegracionGSheets\obj\Debug\IntegracionGSheets.csproj.CopyComplete
 C:\Users\Jonathan Avila\Documents\Visual Studio 2017\projects\IntegracionGSheets\IntegracionGSheets\obj\Debug\IntegracionGSheets.exe
 C:\Users\Jonathan Avila\Documents\Visual Studio 2017\projects\IntegracionGSheets\IntegracionGSheets\obj\Debug\IntegracionGSheets.pdb
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\IntegracionGSheets.exe.config
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\IntegracionGSheets.exe.manifest
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\IntegracionGSheets.application
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\IntegracionGSheets.exe
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\IntegracionGSheets.pdb
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\Google.Apis.Auth.dll
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\Google.Apis.Core.dll
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\Google.Apis.dll
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\Google.Apis.pdb
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\Google.Apis.xml
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\Google.Apis.Auth.xml
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\Google.Apis.Core.pdb
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\Google.Apis.Core.xml
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\obj\Debug\IntegracionGSheets.exe.manifest
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\obj\Debug\IntegracionGSheets.application
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\obj\Debug\IntegracionGSheets.csproj.CopyComplete
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\obj\Debug\IntegracionGSheets.exe
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\obj\Debug\IntegracionGSheets.pdb
+C:\Users\mgarridop\Documents\GitHub\IntegracionGSheets\IntegracionGSheets\obj\Debug\IntegracionGSheets.csprojAssemblyReference.cache
